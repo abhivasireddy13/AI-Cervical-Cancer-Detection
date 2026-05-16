@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.tox/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Models and large binaries — don't commit trained models to git
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+models/
+
+# Data — raw dataset should be downloaded, not committed
+data/
+
+# Results images are generated, not committed
+# (except sample_results.json and .gitkeep)
+results/*.png
+results/*.jpg
+
+# Misc
+*.log
+*.tmp
+Thumbs.db
