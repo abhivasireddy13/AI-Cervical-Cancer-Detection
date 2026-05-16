@@ -52,3 +52,4 @@ results/*.jpg
 *.log
 *.tmp
 Thumbs.db
+.claude/
