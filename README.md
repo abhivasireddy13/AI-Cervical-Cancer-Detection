@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Cervical Cancer Detection
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhivasireddy13/AI-Cervical-Cancer-Detection/blob/master/cervical_cancer_detection.ipynb)
@@ -148,3 +149,6 @@ This is an academic project built to explore ML interpretability in a medical co
 ## License
 
 MIT
+=======
+
+>>>>>>> 6c9c77ecc5949c7b2215002a79018259f3484996
